@@ -8,6 +8,7 @@
    - Find the shortest path between two cities.
    - Delete cities and their paths.
    - little of Load and save graph data from/to a file for persistence.
+   - 
 ->  work is done individually.
 
 
@@ -24,4 +25,5 @@
    - Z implementation + C translation
    - Outputs search path stats/efficiency metrics  
 NOTE: Full labs specifications, examples and grading criteria are detailed in the complement PDF documents in folder "Lab announcement".
+
  -> work is done "in pairs".
