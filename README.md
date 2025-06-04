@@ -1,5 +1,4 @@
-Description of TP C :
-
+ 🔹TP C :
  This program implements some of basics of road map system using linked list
  It provides functions to:
    - Add cities and paths (direct or indirect).
@@ -9,11 +8,10 @@ Description of TP C :
    - Find the shortest path between two cities.
    - Delete cities and their paths.
    - little of Load and save graph data from/to a file for persistence.
-     
 ->  work is done individually.
 
-Description of TP ZxC:
 
+🔹TP ZxC:
  This lab implements optimized word search using 3 BST variants:
    - BST1: Rotates 'Y'/'Z'/'X' words to root
    - BST2: Moves 'Y'/'Z'/'X' words to mid-path
@@ -24,8 +22,6 @@ Description of TP ZxC:
    - Performance comparison vs standard BST0 (statistics)
    - Random word generation (N≥100 for basic, N≥10,000 for simulation)
    - Z implementation + C translation
-   - Outputs search path stats/efficiency metrics
-     
+   - Outputs search path stats/efficiency metrics  
 NOTE: Full labs specifications, examples and grading criteria are detailed in the complement PDF documents in folder "Lab announcement".
-
  -> work is done "in pairs".
