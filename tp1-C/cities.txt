@@ -1,0 +1,6 @@
+city1 city2 125 
+city2 city5 123
+city3 city8 125
+city8 city2 128
+city3 city8 256
+city3 city5 458
